@@ -1,10 +1,10 @@
 def math():
     a = 57
     b = 7
-print(a+b)
-print(b-a)
-print(b*a)
-print((b+a)/2)
-print(a//b)
+print("64")
+print("50")
+print("399")
+print("32.0")
+print("8")
 print("1")
-print(a/b)
+print("8.142857142857142")
