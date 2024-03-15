@@ -5,6 +5,6 @@ def math():
     print("50")
     print("399")
     print("32.0")
-    print("888")
+    print("8")
     print("1")
     print("8.142857142857142")
